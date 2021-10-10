@@ -5,12 +5,12 @@
 Este é um fork de um projeto individual que foi desenvolvido durante o curso de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/).
 
 Todo o código de minha autoria pode ser visto nos arquivos:
-- [models/messagesModel.js](https://github.com/felipe-pimentel/sd-09-project-webchat/blob/felipe-pimentel-webchat-project/models/messagesModel.js)
-- [public/script.js](https://github.com/felipe-pimentel/sd-09-project-webchat/blob/felipe-pimentel-webchat-project/public/script.js)
-- [public/style.css](https://github.com/felipe-pimentel/sd-09-project-webchat/blob/felipe-pimentel-webchat-project/public/style.css)
-- [server.js](https://github.com/felipe-pimentel/sd-09-project-webchat/blob/felipe-pimentel-webchat-project/server.js)
-- [sockets/webchat.js](https://github.com/felipe-pimentel/sd-09-project-webchat/blob/felipe-pimentel-webchat-project/sockets/webchat.js)
-- [views/webchat.ejs](https://github.com/felipe-pimentel/sd-09-project-webchat/blob/felipe-pimentel-webchat-project/views/webchat.ejs)
+- [models/messagesModel.js](https://github.com/felipe-pimentel/sd-09-project-webchat/blob/master/models/messagesModel.js)
+- [public/script.js](https://github.com/felipe-pimentel/sd-09-project-webchat/blob/master/public/script.js)
+- [public/style.css](https://github.com/felipe-pimentel/sd-09-project-webchat/blob/master/public/style.css)
+- [server.js](https://github.com/felipe-pimentel/sd-09-project-webchat/blob/master/server.js)
+- [sockets/webchat.js](https://github.com/felipe-pimentel/sd-09-project-webchat/blob/master/sockets/webchat.js)
+- [views/webchat.ejs](https://github.com/felipe-pimentel/sd-09-project-webchat/blob/master/views/webchat.ejs)
 
 **Todo código além dos encontrados nesses arquivos citados são de autoria do time de instrução da Trybe.**
 
